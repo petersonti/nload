@@ -11,6 +11,8 @@ graphs and provides additional info like total amount of transfered data and
 min/max network usage.
 
 ## Installing / Compiling nload
+Install dependences
+`sudo apt install automake g++ libncurses-dev`
 
 If you downloaded a snapshot from GitHub, you need to install automake and run `./run_autotools`.
 

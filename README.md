@@ -12,7 +12,7 @@ min/max network usage.
 
 ## Installing / Compiling nload
 Install dependences
-`sudo apt install automake g++ libncurses-dev`
+`sudo apt install automake make g++ libncurses-dev`
 
 If you downloaded a snapshot from GitHub, you need to install automake and run `./run_autotools`.
 
